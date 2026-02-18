@@ -1,5 +1,5 @@
 # Pedro Gouveia
-- 💻 My portfolio -> <a target=_blank>https://devpedrogo.github.io/portfolio/</a>
+- 💻 My portfolio -> <a target="_blank">https://devpedrogo.github.io/portfolio/</a>
 - 🧑‍🎓 I'm graduating in Systems Analysis and Development
 - 🧑‍💻 I’m a web developer building my skills and experience
 
