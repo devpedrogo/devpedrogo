@@ -8,5 +8,5 @@
 
 # Github Statistics
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrogo&layout=compact&langs_count=14&theme=dark"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devpedrogo&layout=compact&langs_count=14&theme=dark"/>
 </div>
