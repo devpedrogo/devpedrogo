@@ -3,8 +3,14 @@
 - 🧑‍🎓 I'm graduating in Systems Analysis and Development
 - 🧑‍💻 I’m a web developer building my skills and experience
 
-# Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,tailwind,mysql,git,github,react,nodejs,vscode)](https://skillicons.dev)
+# Front-End
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind)](https://skillicons.dev)
+
+# Back-End & Databases 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,c,nodejs,fastapi,postgres,mysql,sqlite,supabase)](https://skillicons.dev)
+
+# Tools & Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,postman,maven,docker,vercel)](https://skillicons.dev)
 
 # Github Statistics
 <div>
